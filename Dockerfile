@@ -1,6 +1,6 @@
 FROM ubuntu:14.04
 
-MAINTAINER Jeeva
+MAINTAINER Mike
 
 RUN apt-get update && \
     apt-get install -y apache2 && \
